@@ -2,6 +2,7 @@ Lung Detect AI
 
 An AI-powered web application that analyzes chest X-ray images to detect and classify common lung diseases using deep learning.
 
+
 🔗 Live Demo: https://replit.com/@dhilangurtoo/Lung-Detect
 
 What it Does
