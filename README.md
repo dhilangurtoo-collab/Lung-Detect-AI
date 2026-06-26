@@ -1,1 +1,1 @@
-# Lung-Detect-AI
+Lung Detect uses an AI model to analyze uploaded lung images and provide fast predictions that can assist with identifying potential abnormalities. It offers a simple, user-friendly interface for testing and demonstrating AI-powered medical image analysis.
